@@ -1,2 +1,2 @@
 # Crazy-coder
-My first repository
+My First Repository
